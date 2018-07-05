@@ -1,0 +1,9 @@
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/bin/Debug/netstandard2.0/ECuadratica.deps.json
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/bin/Debug/netstandard2.0/ECuadratica.dll
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/bin/Debug/netstandard2.0/ECuadratica.pdb
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/obj/Debug/netstandard2.0/ECuadratica.csprojResolveAssemblyReference.cache
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/obj/Debug/netstandard2.0/ECuadratica.csproj.CoreCompileInputs.cache
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/obj/Debug/netstandard2.0/ECuadratica.AssemblyInfoInputs.cache
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/obj/Debug/netstandard2.0/ECuadratica.AssemblyInfo.cs
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/obj/Debug/netstandard2.0/ECuadratica.dll
+/Users/allan/Downloads/TareaEcuacion-master/ECuadratica/ECuadratica/obj/Debug/netstandard2.0/ECuadratica.pdb
